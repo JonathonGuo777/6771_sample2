@@ -2,7 +2,7 @@
 
 _This is a sample exam only. There will be no marking, sanity checking, or changes._
 
-Before beginning we are assuming that you have read and understood the [COMP6771 Exam Brief page on Webcms3]().
+Before beginning we are assuming that you have read and understood the [COMP6771 Exam Brief page on Webcms3](https://webcms3.cse.unsw.edu.au/COMP6771/22T2/resources/69860).
 
 ## Change Log
 
