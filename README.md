@@ -33,7 +33,6 @@ Please note: Remember to ensure your code works on the UNSW CSE machines. If you
 
 If you want to check if you've actually submitted your questions, and see if they pass a very basic compilation example, then run this command on the CSE systems.
 
-`6771 examcheck`
 
 ## Originality of Work
 
